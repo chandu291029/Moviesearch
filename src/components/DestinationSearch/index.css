@@ -1,0 +1,29 @@
+.bg-container {
+  height: 350vh;
+  width: 100vw;
+  background-size: cover;
+  background-image: linear-gradient(to right, skyblue, green);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+
+.search-icon {
+  height: 20px;
+  width: 50px;
+}
+
+.serachbar {
+  height: 30px;
+  width: 400px;
+  background-color: aliceblue;
+  border: 1px solid black;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+.items {
+  display: flex;
+  flex-direction: column;
+}
