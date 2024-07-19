@@ -4,7 +4,7 @@ In this project, let's build a **Destination Search** app by applying the concep
 
 <br/>
 <div style="text-align: center;">
-    <img src="https://chandrasekharywpl5rjscpz6hlz.drops.nxtwave.tech" alt="destination search output" style="max-width:70%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)">
+    <img src="https://drive.google.com/file/d/163QBg9YQqUcKSxDz1Kwku7KMLjLyuneG/view?usp=drivesdk" alt="Moviesearch" style="max-width:70%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)">
 </div>
 <br/>
 
